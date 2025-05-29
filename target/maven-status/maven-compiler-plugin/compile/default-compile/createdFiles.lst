@@ -1,0 +1,11 @@
+com\RAGA\quizApplecation\entity\QuestionEntity.class
+com\RAGA\quizApplecation\entity\QuizEntity.class
+com\RAGA\quizApplecation\entity\Response.class
+com\RAGA\quizApplecation\QuizApplication.class
+com\RAGA\quizApplecation\controllers\QuestionController.class
+com\RAGA\quizApplecation\controllers\QuizController.class
+com\RAGA\quizApplecation\entity\QuestionWrapperEntity.class
+com\RAGA\quizApplecation\repository\QuestionJPA.class
+com\RAGA\quizApplecation\service\QuestionService.class
+com\RAGA\quizApplecation\service\QuizService.class
+com\RAGA\quizApplecation\repository\QuizJPA.class
